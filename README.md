@@ -4,7 +4,9 @@ Robots limpiadores
 Emma Gabriela Alfaro de la Rocha
 A01740229
 
-Instrucciones 
+Instrucciones: 
+
+
 Para este problema, deberás entregar, de manera individual, un informe en PDF que estudie las estadísticas de un robot de limpieza reactivo, así como el enlace al repositorio en Github del código desarrollado para esta actividad. El código debe ajustarse al estilo solicita en el siguiente documento.
 
 Dado:
